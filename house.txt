@@ -1,0 +1,4 @@
+House: big
+Location: KL
+Type: bungalow
+Your house is a big bungalow in KL
